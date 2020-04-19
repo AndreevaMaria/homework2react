@@ -1,0 +1,19 @@
+header {
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
+.people {
+    margin: 30px;
+    font-size: 20px;
+}
+footer {
+    padding: 10px;
+    background-color: darkblue;
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+}
+img {
+    margin-left: 10px;
+}
